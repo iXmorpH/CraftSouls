@@ -1,1 +1,1 @@
-# CraftSouls-Mod
+# CraftSouls
